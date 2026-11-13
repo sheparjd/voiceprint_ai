@@ -92,5 +92,11 @@ Check out `docs/ARCHITECTURE.md` or open an issue to jump in!
 
 ---
 
+## Additional Notes
+
+There is also an opportunity here for random assignment of more menial tasks.  With functionality to randomly assign trivial tasks, a basic income could be supportive of all Persons, regardless of expertise.
+
+---
+
 ## License
 Apache 2.0

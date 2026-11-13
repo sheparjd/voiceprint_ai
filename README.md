@@ -95,6 +95,8 @@ Check out `docs/ARCHITECTURE.md` or open an issue to jump in!
 ## Additional Notes
 
 There is also an opportunity here for random assignment of more menial tasks.  With functionality to randomly assign trivial tasks, a basic income could be supportive of all Persons, regardless of expertise.
+Biometric Zero-Knowledge Proofs should be used to guarantee a One Human, One Node principle. Proof of Personhood is vital to this mission.  Also, VAIs should be limited to a fair share of actions-per-day.
+This could be either a dynamic percentage or a flat limit of 100 tasks in a given workday to disperse workloads fairly.
 
 ---
 
